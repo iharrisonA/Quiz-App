@@ -1,0 +1,12 @@
+.list-group-item-action:focus {
+    outline: none;
+}
+hr{
+    border-top: 1px solid rgba(255,255,255,.1);
+}
+.container.new{
+    border: 1px solid grey;
+    padding: 2em;
+    border-radius: 1rem;
+    background-color: rgba(255,255,255,.5);
+}
